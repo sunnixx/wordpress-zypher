@@ -1,0 +1,7 @@
+{
+    "name": "vood/wordpress-theme-zephyr",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "*"
+    }
+}
